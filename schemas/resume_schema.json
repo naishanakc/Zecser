@@ -1,0 +1,32 @@
+{
+  "candidate_profile": {
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": ""
+  },
+  "skills": [
+    {
+      "skill_name": "",
+      "category": "",
+      "level": ""
+    }
+  ],
+  "experience": [
+    {
+      "company": "",
+      "designation": "",
+      "start_date": "",
+      "end_date": "",
+      "responsibilities": []
+    }
+  ],
+  "education": [
+    {
+      "degree": "",
+      "institution": "",
+      "year": ""
+    }
+  ],
+  "certifications": []
+}
