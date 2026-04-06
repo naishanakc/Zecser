@@ -1,0 +1,29 @@
+Job Summary 
+An AI Radiology Specialist develops and applies artificial intelligence models to assist in 
+detecting diseases from medical images (X-rays, CT, MRI). 
+Key Responsibilities 
+• Develop/train AI models for image analysis (e.g., tumor detection)  
+• Integrate AI tools into radiology workflows  
+• Validate AI outputs with radiologists  
+• Work on automation of reporting systems  
+• Collaborate with doctors, engineers, and data scientists  
+Qualification 
+• BSc/MSc in Radiology, Computer Science, or Biomedical Engineering  
+• OR MBBS + interest in AI  
+• Skills in Python, Machine Learning, Deep Learning  
+Skills Required 
+• Machine learning (CNNs, deep learning)  
+• Medical imaging knowledge  
+• Programming (Python, TensorFlow, PyTorch)  
+• Data analysis  
+Work Settings 
+• Health-tech companies  
+• AI startups  
+• Hospitals with AI integration  
+• Research labs  
+Salary (India) 
+• Entry: ₹6–12 LPA  
+• Mid-Level: ₹12–30 LPA  
+• Senior: ₹30–80+ LPA  
+Career Growth 
+AI Specialist → AI Lead → Healthcare AI Architect → CTO (HealthTech)

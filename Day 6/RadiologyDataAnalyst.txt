@@ -1,0 +1,24 @@
+Job Summary 
+A Radiology Data Analyst analyzes imaging data and operational data to improve 
+diagnosis, efficiency, and hospital performance. 
+Key Responsibilities 
+• Analyze radiology reports and imaging datasets  
+• Identify trends in disease patterns  
+• Optimize workflow efficiency  
+• Create dashboards and reports  
+• Support research and clinical decision-making  
+Qualification 
+• BSc/MSc in Data Science, Statistics, Radiology, or IT  
+• Knowledge of SQL, Excel, Python  
+Skills 
+• Data analysis & visualization  
+• Statistical analysis  
+• Healthcare data understanding  
+Work Settings 
+• Hospitals  
+• Healthcare analytics firms  
+• Research organizations  
+Salary 
+₹5–15 LPA 
+Career Growth 
+Data Analyst → Senior Analyst → Healthcare Data Scientist

@@ -1,0 +1,24 @@
+Job Summary 
+A Medical Image Analyst focuses on processing and analyzing medical images for 
+diagnosis, AI training, and research. 
+Key Responsibilities 
+• Annotate and label medical images  
+• Analyze CT, MRI, and X-ray datasets  
+• Support AI model training  
+• Improve image quality and segmentation  
+• Work with radiologists for validation  
+Qualification 
+• BSc in Radiology / Biomedical Engineering / Computer Science  
+• Knowledge of image processing tools  
+Skills 
+• Image analysis  
+• Annotation tools (e.g., labeling software)  
+• Basic programming (Python/OpenCV)  
+Work Settings 
+• AI companies  
+• Medical research labs  
+• Imaging software companies  
+Salary 
+₹4–12 LPA 
+Career Growth 
+Image Analyst → Senior Analyst → AI Imaging Specialist

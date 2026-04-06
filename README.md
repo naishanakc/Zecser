@@ -1,6 +1,6 @@
 # ZecserPath AI – Resume & Hiring Intelligence System
 
-## 📌 Project Overview
+## Project Overview
 ZecserPath AI is a modular AI system designed to process resumes, structure hiring data, and build an intelligent ATS (Applicant Tracking System).
 
 ##  Day 3 – Environment & Repository Setup
@@ -42,9 +42,19 @@ Built a resume parsing engine that:
 
 ---
 
-# 🛠 Installation
+# Day 6 - Text Task
 
-### 1️Clone Repository
-```bash
-git clone <your-repo-link>
-cd ZecserPath
+
+- Created multiple job description text files
+- Each file contains a different radiology job role
+- Included:
+  - Job title
+  - Responsibilities
+  - Qualification
+  - Skills
+
+
+All text files are stored in the "Day 6" folder.
+
+
+These text files are used as input for the job description parser.

@@ -1,0 +1,26 @@
+ PACS Administrator (Picture Archiving 
+and Communication System) 
+Job Summary 
+A PACS Administrator manages systems used to store, retrieve, and share medical images 
+digitally within hospitals. 
+Key Responsibilities 
+• Maintain PACS servers and imaging databases  
+• Ensure secure storage and backup of images  
+• Troubleshoot system issues  
+• Integrate PACS with hospital systems  
+• Manage user access and data security  
+Qualification 
+• BSc in IT / Radiology / Computer Science  
+• Training in PACS systems  
+Skills 
+• Networking and server management  
+• Knowledge of DICOM standards  
+• Problem-solving  
+Work Settings 
+• Hospitals  
+• Diagnostic centers  
+• IT healthcare companies  
+Salary 
+₹5–18 LPA 
+Career Growth 
+PACS Admin → Senior Admin → Imaging IT Manager

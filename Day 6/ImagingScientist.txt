@@ -1,0 +1,24 @@
+Job Summary 
+An Imaging Scientist develops and improves imaging technologies and algorithms, often 
+working at the intersection of engineering, physics, and medicine. 
+Key Responsibilities 
+• Develop imaging software and algorithms  
+• Improve image quality and processing techniques  
+• Work on AI-based image analysis  
+• Collaborate with radiologists and engineers  
+• Conduct experimental studies and validation  
+Qualification 
+• MSc/PhD in Imaging Science / Biomedical Engineering / Physics  
+Skills 
+• Image processing (MATLAB, Python)  
+• Machine learning  
+• Signal processing  
+• Analytical thinking  
+Work Settings 
+• Tech companies  
+• Research labs  
+• Medical imaging firms  
+Salary 
+₹8–30+ LPA 
+Career Growth 
+Imaging Scientist → Senior Scientist → R&D Lead → Innovation Director
